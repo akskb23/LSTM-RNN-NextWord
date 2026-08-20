@@ -40,3 +40,7 @@ streamlit run app.py
 ## Purpose
 
 This project demonstrates how an LSTM network can be used for text generation and next-word prediction in natural language processing tasks.
+
+## Note
+
+This trained model is a local machine experiment and is not very accurate or production-ready. It was trained on a small, limited dataset and local hardware, so its predictions are intended for learning and demonstration rather than high-quality real-world performance.
