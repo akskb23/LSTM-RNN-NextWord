@@ -44,3 +44,6 @@ This project demonstrates how an LSTM network can be used for text generation an
 ## Note
 
 This trained model is a local machine experiment and is not very accurate or production-ready. It was trained on a small, limited dataset and local hardware, so its predictions are intended for learning and demonstration rather than high-quality real-world performance.
+
+## Live Demo
+You can view the live application here: [Launch Streamlit App](https://lstm-rnn-nextword-mqpervqsulkbbgq55dhtfe.streamlit.app)
